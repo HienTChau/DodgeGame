@@ -8,7 +8,7 @@
  <br>
 
 ### Additional buff:
-    <br> - Power-up sword: double up your shooting speed<br>
+- Power-up sword: double up your shooting speed<br>
  - Med kit: give you 1 extra heath.<br>
 
 
