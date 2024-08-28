@@ -3,6 +3,7 @@
  2 playable characters:
  - Cheems (Regular Doge): basic and small frame puppy trying to cheer up his friend.
  - Chad Doge: big strong puppy with double damage.
+   <br>
 Additional buff:
  - Power-up sword: double up your shooting speed
  - Med kit: give you 1 extra heath.
